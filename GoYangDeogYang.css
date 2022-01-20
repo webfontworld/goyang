@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'GoYangDeogYang';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/goyang/GoYangDeogYangBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/goyang/GoYangDeogYangBold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/goyang/GoYangDeogYangBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/goyang/GoYangDeogYangBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/goyang/GoYangDeogYangBold.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GoYangDeogYang';
+    font-weight: 800;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/goyang/GoYangDeogYangExtarBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/goyang/GoYangDeogYangExtarBold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/goyang/GoYangDeogYangExtarBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/goyang/GoYangDeogYangExtarBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/goyang/GoYangDeogYangExtarBold.ttf') format("truetype");
+    font-display: swap;
+}
